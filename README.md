@@ -52,7 +52,7 @@ This visualization shows the distribution of customer ages. We can see that the 
 
 **Insight 2:**
 
-![Insert Visualization Here](link_to_image2.png)
+![Insert Visualization Here](https://github.com/Lidivinekeng/-insurance-outcome-Project-02/blob/7c438d84bbfbdc7d885deb0b469141b5a9a4429d/credit%20score%20vs%20outcome.png)
 
 This visualization illustrates the relationship between credit score and the likelihood of filing an insurance claim. Customers with lower credit scores appear to be more likely to file claims. This insight can be valuable for the underwriting team in assessing risk.
 
