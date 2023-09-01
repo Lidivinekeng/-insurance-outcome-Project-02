@@ -46,7 +46,7 @@ The dataset comprises the following columns:
 
 **Insight 1:** 
 
-![Insert Visualization Here](link_to_image1.png)
+![Insert Visualization Here](https://github.com/Lidivinekeng/-insurance-outcome-Project-02/blob/b5c51d0d3fd3c074b8898ab4227d086d1d6b415e/age%20vs%20outcome.png)
 
 This visualization shows the distribution of customer ages. We can see that the majority of customers fall into the '26-39' and '40-64' age groups. This information can help the marketing team target specific age groups with tailored insurance offers.
 
